@@ -28,4 +28,5 @@ I am a committed, creative, and growth-oriented individual. My path combines art
 ## Professional Objective 🧠
 To continue building a solid trajectory that integrates my technical abilities, creative vision, and passion for learning, contributing to projects that generate value, impact, and growth.
 
-## "Every step, idea, and lesson propels the best version of me.” ~Andy
+## Contact 📪
+- Email: andersorojad54@gmail.com
