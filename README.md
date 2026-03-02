@@ -1,7 +1,9 @@
-I'm Andy 👋
+## I'm Andy 👋🏻
+Dance • Artistic Production • Software Creation
+Artist – Producer – Developer in training
 
-## about me: 
-I am a passionate person  about dancing, especially AfroDance. I enjoy learning, moving, and expressing myself through this energetic style. I am currently studying programming, a discipline that motivates me to grow and develop new skills.
+## about me ✨
+I am a committed, creative, and growth-oriented individual. My path combines artistic sensitivity, technical discipline, and a constant desire to learn. Every stage of my education has strengthened my character, my vision, and the way I face new challenges.
 
 ## Education 🎓
 - Accounting Operations: Technical training that provided me with strong foundations in administrative and financial management.
@@ -12,18 +14,18 @@ I am a passionate person  about dancing, especially AfroDance. I enjoy learning,
 
 - Software Creation: My current field of study, a path that broadens my skills and opens new opportunities in the tech world.
 
-## Mindset 🧠
-- Discipline and consistency:
-Your experience in dance and technical studies shows that you are committed and able to maintain dedication even in demanding  
+## Strengths 💪 
+- Discipline and consistency
 
-- Analytical thinking:
-Your background in Accounting Operations gives you a structured mindset with strong attention to detail, ideal for analyzing, organizing, and making clear decisions.
+- Analytical thinking
 
-- Creativity and artistic vision:
-As a dancer and Producing Artist, you have the ability to create, imagine, and develop ideas with intention and purpose.
+- Creativity and artistic vision
 
-- Adaptability and fast learning:
-Studying Software Creation shows your ability to adapt to new fields, grasp complex concepts, and move between different areas with ease.
+- Adaptability and fast learning
 
-- Project leadership:
-Your experience in artistic production reflects that you can plan, organize, and execute projects, guiding ideas and people toward concrete results.
+- Leadership and project management
+
+## Professional Objective 🧠
+To continue building a solid trajectory that integrates my technical abilities, creative vision, and passion for learning, contributing to projects that generate value, impact, and growth.
+
+## "Every step, idea, and lesson propels the best version of me.” ~Andy
